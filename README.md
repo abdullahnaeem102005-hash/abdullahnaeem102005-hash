@@ -13,8 +13,8 @@
   <a href="mailto:abdullahnaem102005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=shahnaeem102005-hash&label=Profile%20Views&color=007ACC&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/shahnaeem102005-hash?label=Followers&style=for-the-badge&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=abdullahnaeem102005-hash&label=Profile%20Views&color=007ACC&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/abdullahnaeem102005-hash?label=Followers&style=for-the-badge&color=blueviolet" />
 </p>
 
 ---
@@ -34,7 +34,7 @@
 ### 🏆 GitHub Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahnaeem102005-hash&theme=dracula&no-frame=true&column=6&margin-w=15" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdullahnaeem102005-hash&theme=dracula&no-frame=true&column=6&margin-w=15" width="100%" />
 </p>
 
 ---
@@ -82,12 +82,12 @@
 ### 📊 GitHub Activity Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shahnaeem102005-hash&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnaeem102005-hash&layout=compact&theme=dracula&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdullahnaeem102005-hash&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahnaeem102005-hash&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahnaeem102005-hash&theme=dracula&hide_border=true" />
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahnaeem102005-hash&theme=dracula&hide_border=true" />
 </p>
 
 ---
