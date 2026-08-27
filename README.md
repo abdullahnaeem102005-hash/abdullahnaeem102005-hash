@@ -5,7 +5,7 @@
 
 <!-- ==================== TYPING TEXT ANIMATION ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;Databases+%26+Cloud+Architect;Student+%40+Saylani+Mass+IT+Training+(SMIT);Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;Databases+%26+Cloud+Architect;Open+Source+Contributor" />
 </p>
 
 <!-- ==================== BADGES & VISITOR COUNTER ==================== -->
@@ -22,7 +22,7 @@
 <!-- ==================== ABOUT ME SECTION ==================== -->
 ### 🚀 About Me
 
-- 🎓 **Education:** Pursuing **Modern Web Development (MERN Stack)** at **Saylani Mass IT Training (SMIT)**.
+- 🎓 **Education:** Pursuing **Modern Web Development (MERN Stack)**.
 - 💡 **Focus Areas:** Scalable Web Apps, Modern Frontend UI/UX, RESTful APIs, & Cloud Databases.
 - 🛠️ **Current Focus:** Mastering Data Structures, JavaScript Logic, & Full-Stack Architecture.
 - 🎯 **Goal:** Building production-grade Web Applications and contributing to Open Source.
@@ -40,7 +40,7 @@
 ---
 
 <!-- ==================== COMPLETE TECH STACK ==================== -->
-### 🛠️ Tech Stack & Ecosystem (SMIT Roadmap)
+### 🛠️ Tech Stack & Ecosystem
 
 **Frontend Engineering:**
 <p>
@@ -102,5 +102,5 @@
 ---
 
 <p align="center">
-  <i>⚡ Automated README designed for continuous growth @ SMIT</i>
+  <i>⚡ Automated README designed for continuous growth</i>
 </p>
