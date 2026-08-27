@@ -1,6 +1,6 @@
-<!-- ==================== HEADER BANNER ==================== -->
+<!-- ==================== HEADER BANNER (CUSTOMIZED) ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=200&section=header&text=ABDULLAH%20NAEEM&fontSize=40&fontColor=ffffff&animation=twinkle" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24,36&height=260&section=header&text=ABDULLAH%20NAEEM&fontSize=55&fontColor=38BDF8&animation=twinkle&fontAlignY=45&desc=FULL%20STACK%20MERN%20DEVELOPER&descSize=18&descAlignY=68&descColor=A855F7" width="100%" />
 </p>
 
 <!-- ==================== TYPING SUBTITLE ==================== -->
