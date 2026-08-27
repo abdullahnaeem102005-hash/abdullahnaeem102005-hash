@@ -1,6 +1,102 @@
-<!-- ==================== HEADER BANNER (CUSTOMIZED) ==================== -->
+<!-- ==================== MODERN DEVELOPER TERMINAL BANNER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24,36&height=260&section=header&text=ABDULLAH%20NAEEM&fontSize=55&fontColor=38BDF8&animation=twinkle&fontAlignY=45&desc=FULL%20STACK%20MERN%20DEVELOPER&descSize=18&descAlignY=68&descColor=A855F7" width="100%" />
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="100%" height="280">
+    <defs>
+      <!-- Background Gradients -->
+      <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#090d16" />
+        <stop offset="50%" stop-color="#0f172a" />
+        <stop offset="100%" stop-color="#050811" />
+      </linearGradient>
+
+      <!-- Text Glow & Gradient -->
+      <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#38bdf8" />
+        <stop offset="50%" stop-color="#818cf8" />
+        <stop offset="100%" stop-color="#c084fc" />
+      </linearGradient>
+
+      <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.8" />
+        <stop offset="50%" stop-color="#c084fc" stop-opacity="0.2" />
+        <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.8" />
+      </linearGradient>
+
+      <!-- Glow Effect Filter -->
+      <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="10" result="blur" />
+        <feMerge>
+          <feMergeNode in="blur" />
+          <feMergeNode in="SourceGraphic" />
+        </feMerge>
+      </filter>
+
+      <!-- Embedded CSS Animations -->
+      <style>
+        @keyframes pulseGlow {
+          0% { filter: drop-shadow(0 0 15px rgba(56, 189, 248, 0.4)); }
+          50% { filter: drop-shadow(0 0 25px rgba(192, 132, 252, 0.7)); }
+          100% { filter: drop-shadow(0 0 15px rgba(56, 189, 248, 0.4)); }
+        }
+        @keyframes cursorBlink {
+          0%, 100% { opacity: 1; }
+          50% { opacity: 0; }
+        }
+        @keyframes scanline {
+          0% { transform: translateY(-100%); }
+          100% { transform: translateY(100%); }
+        }
+        .main-title {
+          font-family: 'Fira Code', 'JetBrains Mono', Consolas, monospace;
+          font-weight: 800;
+          font-size: 52px;
+          fill: url(#textGrad);
+          animation: pulseGlow 4s infinite ease-in-out;
+        }
+        .code-text {
+          font-family: 'Fira Code', 'JetBrains Mono', Consolas, monospace;
+          font-size: 16px;
+          fill: #94a3b8;
+        }
+        .keyword { fill: #f43f5e; font-weight: bold; }
+        .string { fill: #38bdf8; }
+        .variable { fill: #a855f7; }
+        .cursor { animation: cursorBlink 1s infinite; fill: #38bdf8; }
+      </style>
+    </defs>
+
+    <!-- Main Container Card -->
+    <rect x="5" y="5" width="990" height="270" rx="16" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="2" />
+
+    <!-- Terminal Window Top Bar -->
+    <rect x="5" y="5" width="990" height="40" rx="16" fill="#020617" fill-opacity="0.6" />
+    <circle cx="30" cy="25" r="6" fill="#ef4444" />
+    <circle cx="50" cy="25" r="6" fill="#eab308" />
+    <circle cx="70" cy="25" r="6" fill="#22c55e" />
+    <text x="500" y="29" text-anchor="middle" font-family="'Fira Code', monospace" font-size="13" fill="#64748b">abdullah-naeem ~ zsh — 100x28</text>
+
+    <!-- Glowing Grid Accent Background -->
+    <path d="M0,80 L1000,80 M0,140 L1000,140 M0,200 L1000,200" stroke="#1e293b" stroke-width="1" stroke-dasharray="4 4" />
+
+    <!-- Developer Main Name -->
+    <text x="50" y="125" class="main-title">ABDULLAH NAEEM</text>
+
+    <!-- Terminal Code Block Style Subtitle -->
+    <g transform="translate(50, 165)">
+      <text class="code-text" x="0" y="0">
+        <tspan class="keyword">const</tspan> <tspan class="variable">developer</tspan> = {
+      </text>
+      <text class="code-text" x="20" y="25">
+        role: <tspan class="string">'Full Stack MERN Developer'</tspan>,
+      </text>
+      <text class="code-text" x="20" y="50">
+        passion: <tspan class="string">'Building Scalable Systems &amp; Modern UI'</tspan>
+      </text>
+      <text class="code-text" x="0" y="75">
+        }; <rect class="cursor" x="35" y="63" width="10" height="18" />
+      </text>
+    </g>
+  </svg>
 </p>
 
 <!-- ==================== TYPING SUBTITLE ==================== -->
